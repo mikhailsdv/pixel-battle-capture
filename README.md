@@ -7,7 +7,7 @@ How to use?
 ---
 1. Install [Node.js]( https://nodejs.org/en/download/).
 2. Clone or donwload this repo and unpack somewhere on your computer.
-3. In the `pixel-battle-capture` folder open terminal (e.g. cmd.exe) and run `npm i`.
+3. In the root folder open terminal (e.g. cmd.exe) and run `npm i`.
 4. When all dependencies is installed close the terminal.
 5. Go to `/src/` folder → open `start.cmd` or run `node index` in that folder.
 6. Wait till your .png is finished.
