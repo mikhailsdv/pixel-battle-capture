@@ -1,7 +1,7 @@
 # pixel-battle-capture
 Node.js script that captures [VK Pixel Battle](https://vk.com/pixelbattle) canvas and creates .png out of it in high resolution.
 
-![Example image](/src/pb_1605695217075.png?raw=true)
+![Example image](/src/example/1x1.png?raw=true)
 
 How to use?
 ---
