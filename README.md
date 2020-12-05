@@ -24,4 +24,4 @@ Well, for now you can change only one thing — resolution. By default it's set
 Feedback
 ---
 Have any questions? Contact me on Telegram [@mikhailsdv](https://t.me/mikhailsdv).  
-Subscribe to my Telegram chanel [@FilteredInternet](https://t.me/FilteredInternet).
+Subscribe to my Telegram channel [@FilteredInternet](https://t.me/FilteredInternet).
